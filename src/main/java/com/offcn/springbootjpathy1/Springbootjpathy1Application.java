@@ -13,6 +13,7 @@ public class Springbootjpathy1Application {
         SpringApplication.run(Springbootjpathy1Application.class, args);
         System.out.println("我是1.0");
         System.out.println("aaa");
+        System.out.println("zzzz");
     }
 
 }
